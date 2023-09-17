@@ -1,0 +1,1 @@
+自己的一些笔记，基于 [Obsidian](https://obsidian.md/)
